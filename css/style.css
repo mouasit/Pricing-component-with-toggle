@@ -58,6 +58,7 @@ body{
 h1{
     color: var(--color-text);
     text-align: center;
+    font-size: 2em;
 }
 
 .list-prices{
@@ -85,7 +86,6 @@ h1{
     justify-content: end;
     border-radius: 50px;
     padding: 2px;
-    border: none;
     cursor: pointer;
 
 }
