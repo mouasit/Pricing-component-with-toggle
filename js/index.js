@@ -1,4 +1,4 @@
-const toggle = document.getElementById("toggle")
+const toggle = document.getElementById("toggle");
 
 const basic = document.getElementById("basic");
 const professional = document.getElementById("professional");
@@ -11,7 +11,7 @@ toggle.addEventListener("click",function(){
     if(type == "month")
     {
         type = "year";
-        toggle.style.justifyContent = "start"
+        toggle.style.justifyContent = "start";
         basic.innerHTML = "199.99";
         professional.innerHTML = "249.99";
         master.innerHTML = "399.99";
@@ -24,4 +24,4 @@ toggle.addEventListener("click",function(){
         master.innerHTML = "39.99";
     }
     
-})
+});
