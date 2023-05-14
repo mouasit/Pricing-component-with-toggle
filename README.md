@@ -1,6 +1,6 @@
 # Pricing component with toggle
 
-![Design preview for the Notifications page](./design/desktop-preview.jpg)
+![Design preview for the Notifications page](./design/desktop-preview.png)
 
 ## Welcome! 👋
 
